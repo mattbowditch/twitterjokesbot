@@ -1,0 +1,16 @@
+{
+  "name": "twitterjokebot",
+  "version": "1.0.0",
+  "description": "A bot that takes jokes from reddit and tweets them.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Bowditch",
+  "license": "ISC",
+  "dependencies": {
+    "reddit-snooper": "^1.0.1",
+    "string-similarity": "^1.2.0",
+    "twit": "^2.2.9"
+  }
+}
